@@ -1,0 +1,10 @@
+main.cpp: In function ‘void CompareThreeNumbers(int, int, int, Result&)’:
+main.cpp:6:18: error: ‘最小值’ was not declared in this scope
+    6 |     result.min = 最小值;
+      |                  ^~~~~~
+main.cpp:7:18: error: ‘中间值’ was not declared in this scope
+    7 |     result.mid = 中间值;
+      |                  ^~~~~~
+main.cpp:8:18: error: ‘最大值’ was not declared in this scope
+    8 |     result.max = 最大值;// 在这里完成你的代码
+      |                  ^~~~~~

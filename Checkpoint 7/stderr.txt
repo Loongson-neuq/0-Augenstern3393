@@ -1,0 +1,1 @@
+/tmp/tmpYYk4vt.tmp: line 1: ./main: No such file or directory
